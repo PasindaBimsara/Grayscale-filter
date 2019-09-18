@@ -1,0 +1,21 @@
+#d1 {
+  color:black;
+  text-align:center;
+  border-style:solid;
+  border-radius:10px;
+  background-color:lightgrey;
+}
+#can1{
+  width:600px;
+  height:300px;
+  margin:10px;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+#can2{
+  width:600px;
+  height:300px;
+  margin:10px;
+  border: 2px solid black;
+  border-radius: 20px;
+}
